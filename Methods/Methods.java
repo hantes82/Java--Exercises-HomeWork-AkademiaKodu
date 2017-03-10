@@ -69,7 +69,7 @@ public class Main {
         return 0;
     }
     public float surface (int a, int b, int h) {
-        return ((a+b)/2)*h;
+        return (((float)a+b)/2)*h;
     }
 
 
